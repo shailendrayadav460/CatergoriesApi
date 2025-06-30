@@ -1,0 +1,12 @@
+const categoriesList = [
+    { Img: "my-api/assets/Categories_01.jpg", productName: "Mango", item: 37 },
+    { Img: "my-api/assets/Categories_02.jpg", productName: "Corn", item: 12 },
+    { Img: "my-api/assets/Categories_03.jpg", productName: "Juice", item: 25 },
+    { Img: "my-api/assets/Categories_04.jpg", productName: "Banana", item: 48 },
+    { Img: "my-api/assets/Categories_05.jpg", productName: "Watermelon", item: 19 },
+    { Img: "my-api/assets/Categories_06.jpg", productName: "Capsicum", item: 33 },
+    { Img: "my-api/assets/Categories_07.jpg", productName: "Kiwi", item: 7 },
+    { Img: "my-api/assets/Categories_08.jpg", productName: "Orange", item: 22 }
+];
+
+module.exports = categoriesList;
